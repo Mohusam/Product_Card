@@ -17,7 +17,7 @@ body{
 .container .img {
     width: 400px;
     height: 600px;
-    background: url(/images/image-product-desktop.jpg);
+    background: url(images/image-product-desktop.jpg);
     border-radius: 10px 0 0 10px;
     background-size: contain;
 }   
@@ -100,7 +100,7 @@ body{
         height: 700px;
     }
     .container .img {
-        background: url(/images/image-product-mobile.jpg) no-repeat;
+        background: url(images/image-product-mobile.jpg) no-repeat;
         height: 280px;
         border-radius: 10px 10px 0 0;
         background-size: contain;
